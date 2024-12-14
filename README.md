@@ -1,21 +1,13 @@
 # pp-worker 
 
-1. See YouTube Video:
+1. 
 # برای دیدن آموزش به کانال زیر مراجعه کنید:
-   [https://www.youtube.com/@IR_Tech](https://www.youtube.com/@IR_TECH)
-   
-   🎗Telegram channel:
- [https://www.t.me/P_tech2024](https://www.t.me/P_tech2024)
-
-
-for android download -->[hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard)
-
 .
 2. Clone this repository deploy in cloudflare pages.
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/Ptechgithub/pp-worker/blob/main/_worker.js).
+1. Cop
 
 ### UUID Setting (Optional)
 
@@ -73,7 +65,7 @@ https port  ---> 443, 8443, 2053, 2096, 2087, 2083
 
 note: `proxyIP` is the ip or domain you want to set. this means that the proxyIP is used to route traffic through a proxy rather than directly to a website that is using Cloudflare's (CDN). if you don't set this variable, connection to the Cloudflare IP will be cancelled (or blocked)...
 
-resons: Outbound TCP sockets to Cloudflare IP ranges are temporarily blocked, please refer to the [tcp-sockets documentation](https://developers.cloudflare.com/workers/runtime-apis/tcp-sockets/#considerations)
+resons: Outbound TCP sockets to Cloudflare IP ranges are temporarily blocked, please refer to the 
 
 ## Usage
 
